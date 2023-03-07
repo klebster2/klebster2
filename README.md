@@ -11,10 +11,6 @@
 <a href="https://linkedin.com/in/kleber-noel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kleber-noel" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <im
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klebster2&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="klebster2" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klebster2&show_icons=true&locale=en&theme=gruvbox" alt="klebster2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klebster2&theme=gruvbox" alt="klebster2" /></p>

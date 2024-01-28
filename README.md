@@ -4,7 +4,7 @@ In my day job as a Senior Speech Engineer, working primarily on ASR and related 
 
 However, more recently, I've been venturing deeper into the weird and wonderful LLM jungle in all its strange glory.
 
-To gauge how wedded I am to the shell, you should know that I am a Neovim advocate; I program my text editors with Lua, and I'm opinionated about it.
+To gauge how wedded I am to the shell, you should know that I am a Neovim advocate; I write functionality into my text editors with Lua
 
 Here you can find some of the public projects that I've been working on over the years.
 

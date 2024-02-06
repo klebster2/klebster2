@@ -10,4 +10,4 @@ To gauge how wedded I am to the shell, note that I am a Neovim advocate, and I _
 
 Here you can find some of the public projects that I've been working on over the years.
 
-One day I plan to order and list them properly here, until then, you can browse my public repositories, or visit this [projects page](https://klebster2.github.io/projects/)
+One day I plan to order and list them properly here, until then, you can browse my public repositories, or visit my [projects page](https://klebster2.github.io/projects/)

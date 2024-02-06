@@ -5,7 +5,7 @@ I currently work as a Speech Engineer. I'm no stranger to ASR, Bourne Again Shel
 
 At heart, I like to understand what I'm developing, and how best to make something of value reproducible.
 
-To gauge how wedded I am to the shell, note that I am a Neovim advocate, and I ([try](https://github.com/klebster2/vimrc)) write functionality into my text editors with Lua + Vim or just plain Vim Script.
+To gauge how wedded I am to the shell, note that I am a Neovim advocate, and I _[try](https://github.com/klebster2/vimrc)_ to write functionality into my text editors with Lua or just plain old vim script.
 
 Here you can find some of the public projects that I've been working on over the years.
 

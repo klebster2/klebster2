@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 [![Hits](https://komarev.com/ghpvc/?username=klebster2&color=red&label=Hits)](https://github.com/klebster2)
+[![GitHub Stars](https://img.shields.io/github/stars/klebster2?style=social)](https://github.com/klebster2)
 
 I currently work as a Speech Engineer. I'm no stranger to model training and evaluation, shell scripting, Python, surfacing and testing APIs, and trying to make them more robust.
 
